@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+hello
+hello
+<<<<<<< HEAD
+=======
+hi
+hi
+>>>>>>> hikarukl-patch-2
+=======
+a
+>>>>>>> origin/copy_master
+sai roi
+khong biet
+chao ban
+Chao chi
