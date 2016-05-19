@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Welcome to CodeIgniter</title>
+    <title>Welcome to Home</title>
 
     <style type="text/css">
 
@@ -62,15 +62,47 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         border: 1px solid #D0D0D0;
         box-shadow: 0 0 8px #D0D0D0;
     }
+
+    #body table tr td{
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 25px;
+    }
+    #body table{
+        margin: 0 auto;
+    }
+    #container h1{
+         text-align:center;
+    }
     </style>
 </head>
 <body>
 
 <div id="container">
-    <h1>This is homepage of Github Page Test</h1>
+    <h1>This is homepage</h1>
     <div id="body">
-        <p>Welcome guys.</p>
-        <a href="<?= base_url().'daiduong/'?>">Vũ Đại Dương</a>
+        <table>
+            <tbody>
+                <tr>
+                    <td><a href="home">Home</a></td>
+                    <td><a href="contract">Contract</a></td>
+                    <td><a href="information">Information</a></td>
+                    <td><a href="product">Product</a></td>
+                </tr>
+                <tr>
+                    <td><a href="user">User</a></td>
+                    <td><a href="admin">Admin</a></td>
+                    <td><a href="payment">Payment</a></td>
+                    <td><a href="administrator">Administrator</a></td>
+                </tr>
+                <tr>
+                    <td><a href="delivery">Delivery</a></td>
+                    <td><a href="address">Address</a></td>
+                    <td><a href="holiday">Holiday</a></td>
+                    <td><a href="law">Law</a></td>
+                </tr>
+            </tbody>
+        </table>
 </div>
 
 </body>
