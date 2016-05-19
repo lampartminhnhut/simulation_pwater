@@ -1,0 +1,10 @@
+# config eclipse
+/.settings/
+/.project
+/.buildpath
+
+# different config
+/application/config/different_config
+
+# log
+/application/logs
