@@ -4,12 +4,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Welcome to Contract</title>
+    <title>Welcome to Information</title>
 </head>
 <body>
 
 <div id="container">
-    <h1 style="text-align:center">This is Administrator Page</h1>
+    <h1 style="text-align:center">This is Information Page</h1>
     <div id="body" style="width: 70%; margin: 0 auto;">
     <div style="border: solid 1px; padding: 10px">
 <p>Information (shortened as info) is that which informs. In other words, it is the answer to a question of some kind.</br>

@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-    <h1 style="text-align:center">This is Administrator Page</h1>
+    <h1 style="text-align:center">This is Contract Page</h1>
     <div id="body" style="width: 70%; margin: 0 auto;">
     <div style="border: solid 1px; padding: 10px">
 <p>In order for a contract to be formed, the parties must reach mutual assent (also called a meeting of the minds).</p>
