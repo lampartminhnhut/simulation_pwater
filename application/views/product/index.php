@@ -1,5 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
+
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +16,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <p>In economics and commerce, products belong to a broader category of goods. The economic meaning of product was first used by political economist Adam Smith.[citation needed]</p>
 
-<p>A related concept is that of a sub product, a secondary but useful result of a production process.</p>
+<!-- [START][10504][CHG] - [Minh Son] - [2016-05-19] - Change text in view of Product -->
+<!-- <p>A related concept is that of a sub product, a secondary but useful result of a production process.</p> -->
+<p>A product needs to be relevant: the users must have an immediate use for it.</p>
+<!-- [END][10504][CHG] - [Minh Son] - [2016-05-19] -->
 
 <p>Dangerous products, particularly physical ones, that cause injuries to consumers or bystanders may be subject to product liability.</p>
 </div>
