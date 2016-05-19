@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Welcome to Law</title>
 
     <style type="text/css">
 
@@ -72,16 +72,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div id="body">
         <div class="box">
             <div id="lipsum">
-                <p>
-                In criminal law, in certain jurisdictions, criminal prosecutions are brought in the name of the People.
-                Several U.S. states, including California, Illinois, and New York, use this style.
-                Citations outside the jurisdictions in question usually substitute the name of the state for the words "the People" in the case captions.
-                Four states — Massachusetts, Virginia, Pennsylvania, and Kentucky — refer to themselves as the Commonwealth in case captions and legal process.
-                Other states, such as Indiana, typically refer to themselves as the State in case captions and legal process. Outside the United States.
-                criminal trials in Ireland and the Philippines are prosecuted in the name of the people of their respective states.
-
-                The political theory underlying this format is that criminal prosecutions are brought in the name of the sovereign; thus, in these U.S. states, the "people" are judged to be the sovereign, even as in the United Kingdom and other dependencies of the British Crown, criminal prosecutions are typically brought in the name of the Crown. "The people" identifies the entire body of the citizens of a jurisdiction invested with political power or gathered for political purposes.
-                </p>
+                In criminal law, in certain jurisdictions, criminal prosecutions are brought in the name of the People.<br>
+Several U.S. states, including California, Illinois, and New York, use this style.<br>
+Citations outside the jurisdictions in question usually substitute the name of the state for the words "the People" in the case captions.<br>
+Four states — Massachusetts, Virginia, Pennsylvania, and Kentucky — refer to themselves as the Commonwealth in case captions and legal process.<br>
+Other states, such as Indiana, typically refer to themselves as the State in case captions and legal process. Outside the United States.<br>
+criminal trials in Ireland and the Philippines are prosecuted in the name of the people of their respective states.<br>
+<br>
+The political theory underlying this format is that criminal prosecutions are brought in the name of the sovereign; thus, in these U.S. states, the "people" are judged to be the sovereign, even as in the United Kingdom and other dependencies of the British Crown, criminal prosecutions are typically brought in the name of the Crown. "The people" identifies the entire body of the citizens of a jurisdiction invested with political power or gathered for political purposes.<br>
             </div>
         </div>
 </div>
