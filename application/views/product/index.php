@@ -16,6 +16,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <p>In economics and commerce, products belong to a broader category of goods. The economic meaning of product was first used by political economist Adam Smith.[citation needed]</p>
 
+
+
 <p>A related concept is that of a sub product, a secondary but useful result of a production process.</p>
 
 <p>Dangerous products, particularly physical ones, that cause injuries to consumers or bystanders may be subject to product liability.</p>
